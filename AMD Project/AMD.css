@@ -1,0 +1,533 @@
+ .header{
+    background: black;
+    width: 100%;
+    height: 100px;
+
+}
+body{
+   margin-top: 0;
+   margin-right: 0;
+   margin-left: 0;
+
+    padding: 0;
+}
+.header-logo{
+    border-image-width: ;
+    padding-left: 25px;
+    font-size: 20px;
+    width: 103.58px ;
+    height: 24px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+    line-height: 22px;
+    padding-top: 15px;
+    position: absolute;
+   
+}
+.but{
+    visibility: hidden;
+}
+.imgheaderlogo{
+    width: 134.58px;
+    height: 44.68px;
+    padding-left: 26px;
+    padding-top: 0px;
+}
+.navabar-nav-container{
+   width: 100%;
+   height: 75px;
+   line-height: 75px;
+   padding: opx 100px;
+  position: fixed;
+   background-image: black;
+
+}
+nav ul{
+    padding-left: 214px;
+    margin-top: 30px;
+    
+    
+}
+nav li{
+    display:inline-block;
+    list-style: none;
+}
+nav li a{
+    font-size: 16px;
+    text-transform: capitalize;
+    padding: 0px 30px;
+    color: white;
+    text-decoration: none;
+    font-family: "Noto Sans",sans-serif;
+    bottom: 30px;
+}
+.containermain1{
+    
+    width: 100%;
+    height: 472px;
+
+}
+.imgmain{
+    
+    width: 100%;
+    padding-bottom: 20px;
+    background-size: auto;
+
+}
+.paragraphmainc1{
+  
+        font-size: 29px;
+        line-height: 100%;
+        margin-bottom: 5px;
+        font-family: Klavika Medium Condensed,arial,sans-serif;
+
+        margin-top: 22px;
+        font-weight: 500px;
+
+}
+    
+.textblock1{
+    position: absolute;
+    bottom: 0px;
+    right: 716px;
+    background-color: #00000080;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 698.84px;
+    height: 271.25;
+    top: 124px;
+
+}
+.textblock2{
+    font-size: 26px;
+    line-height: normal;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    clear: both;
+    font-family: "Klavika Light Condensed",arial,sans-serif;
+    width: 658px;
+    font-weight: 500px;
+
+  
+}
+.textblock3{
+
+
+    display: inline-block;
+    font-weight: bold;
+    padding: 10px 15px;
+    font-size: 16px;
+    text-decoration: none !important;
+    background: transparent;
+    min-width: 200px;
+    max-width: 100%;
+    margin-top: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    white-space: normal;
+    color: var(--link-button-active-text-color);
+    border: 2px solid var(--link-button-active-border-color);
+}
+.container3box{
+    padding-bottom: 248px;
+    width: 100%;
+    height: auto;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+
+}
+.box{
+    width: 445.89px;
+    height: 250.59px;
+    background: white;
+    margin: 20px;
+    box-sizing: border-box;
+}
+.firstimage{
+    width: 100%;
+}
+.imgsecond{
+    width: 100%;
+}
+.imgthird{
+    width: 100%;
+}
+.firstimagetext1-1{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 5px;
+    font-family: "Klavika Medium Condensed",arial,sans-serif;
+}
+              
+.secondimagetex{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 5px;
+}
+.thirimagetex{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 5px;
+
+}
+.ibox1{
+    
+    display: inline-block;
+    font-weight: bold;
+    padding: 10px 15px;
+    font-size: 14px;
+    text-decoration: none !important;
+    background: transparent;
+    min-width: 200px;
+    max-width: 100%;
+    margin-top: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    white-space: normal;
+    color: black;
+    border: 2px solid black;
+}
+.ibox2{
+    
+    display: inline-block;
+    font-weight: bold;
+    padding: 10px 15px;
+    font-size: 14px;
+    text-decoration: none !important;
+    background: transparent;
+    min-width: 200px;
+    max-width: 100%;
+    margin-top: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    white-space: normal;
+    color: black;
+    border: 2px solid black;
+}
+.ibox3{
+    
+    display: inline-block;
+    font-weight: bold;
+    padding: 10px 15px;
+    font-size: 14px;
+    text-decoration: none !important;
+    background: transparent;
+    min-width: 200px;
+    max-width: 100%;
+    margin-top: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    white-space: normal;
+    color: black;
+    border: 2px solid black;
+}
+.secondfullimg{
+    position: relative;
+    
+}
+.secondfimg{
+    width: 100%;
+    height: 361.25px;
+    position: absolute;
+    
+    
+}
+.mainclosingfimage2{
+    margin-bottom: 25px;
+} 
+
+.secondfimgtextbox{
+   position: absolute;
+   top: 64px;
+  right: 40px;
+  background-color:  #00000080;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 698.8px;
+  height: 261.25px;
+  font-size: 26px;
+  
+
+}
+.maincontainer2{
+    width: 100%;
+    height: auto;
+    background:whi ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+
+
+.box-1{
+    width: 200px;
+    height: 300px;
+    background: yellow;
+    margin: 20px;
+    box-sizing: border-box;
+    font-size: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+  .c1 {
+    display: inline-block;
+    border: 1px solid white;
+    
+    vertical-align: middle;
+    width: 712.84px ;
+    height:213.69px ;
+    margin: 0px;
+    padding: 0px;
+
+    
+  }
+  .c1-1{
+    width: 100%;
+    height:213.69px ;
+  }
+  .c1-2{
+    width: 100%;
+    height: 213.67px;
+  }
+  .firstimg-1-textbelow{
+
+    font-size: 23;
+  }
+  .firstimage-2-textbelow{
+    font-size: 17px;
+   
+}
+.learnbox-1{
+    display: inline-block;
+    font-weight: bold;
+    padding: 10px 15px;
+    font-size: 14px;
+    text-decoration: none !important;
+    background: transparent;
+    min-width: 200px;
+    max-width: 100%;
+    margin-top: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    white-space: normal;
+    color: black;
+    border: 2px solid black;
+
+
+}
+.learnbox-2{
+    display: inline-block;
+    font-weight: bold;
+    padding: 10px 15px;
+    font-size: 14px;
+    text-decoration: none !important;
+    background: transparent;
+    min-width: 200px;
+    max-width: 100%;
+    margin-top: 106px;
+    text-transform: uppercase;
+    text-align: center;
+    white-space: normal;
+    color: black;
+    border: 2px solid black;
+
+
+}
+
+  .style-h3{font-size: 18px;
+    font-family: "Klavika Light Condensed",arial,sans-serif;
+    line-height: normal;
+    color: white;
+    font-weight: 500;
+    text-align: left;
+    padding-left: 1px;
+    padding-right: 4px;
+    padding-bottom: 9px;
+    padding-top: 15px;
+  }
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.ul{
+    list-style: none;
+
+}
+.common-footer {
+    background-color: black;
+    padding-top: 1.625rem;
+    padding-bottom: 1.625rem;
+    height: 549px;
+
+    width: 1519.2px;
+    padding: 0 15px;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    width: 100%;
+    }
+    .container{
+        
+    margin: auto;
+    }
+
+
+.footer-col h4{
+
+    font-size: 18px;
+    color: white;
+    text-transform: capitalize;
+    margin-bottom: 19px;
+    font-weight: 500;
+    position: relative;
+}
+.footer-col h4::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    height: 2px;
+    box-sizing: border-box;
+    width: 50px;
+}
+.footer-col ul li:not(:last-child){
+    margin-bottom: 10px;
+}
+.footer-col ul li a{
+    font-size: 16px;
+    text-transform: capitalize;
+    color: white;
+    text-decoration: none;
+    font-weight: 300;
+    display: block;
+    margin: 30px;
+}
+
+.lasttwoimgcontainer {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: DodgerBlue;
+    margin-top: -463px;
+  }
+  
+  .lasttwoimgcontainer .section {
+    background-color: #f1f1f100;;
+    width: 50%;
+    margin: 20px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    height: 403.85;
+  }
+  .moving{
+    position: relative;
+  }
+  .more-block{
+    position: absolute;
+    bottom: 83px;
+    right: 548px;
+    background-color: #ddd0d000;
+    color: white;
+    
+    box-sizing: border-box;
+    border: 1px solid;
+
+
+    padding: 11px 31px;
+    
+  }
+  .amdnews{
+    padding-top: 20px;
+
+  }
+  .social-media{
+    margin: 0;
+    padding: 0;
+    padding-left: 1156px;
+  }
+  .social-media li {
+    list-style: none;
+    display: inline-block;
+     
+  }
+  .social-media li a{
+    margin-right: 30px;
+    font-size: 18px;
+    text-align: right;
+
+  }
+  .mainclosingfimage2{
+    position: relative;
+
+  }
+  .second-learnmore{
+    position: absolute;
+    bottom: 64px;
+    right: 530px;
+    background-color: transparent;
+    color: white;
+    padding-left: 31px;
+    padding-right: 45px;
+    box-sizing: border-box;
+    border: 1px solid;
+    font-family: "Noto Sans",sans-serif;
+    padding-top: 14px;
+    padding-bottom: 14px;
+  }
+
+  .final-listcontainer-AMD{
+    margin-top: 16px;
+    margin-left: 233px;
+
+}
+.final-listcontainer-AMD{
+  
+    padding: 0px;
+
+}
+.final-listcontainer-AMD li {
+    list-style: none;
+    display: inline-block;
+}
+.final-listcontainer-AMD li a{
+    font-size: 14px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: gray;
+}
+.containermain1{
+    position: relative;
+}
+.intr-box{
+    bottom: 50px;
+    right: 485px;
+    background-color: transparent;
+    
+    padding-right: 20px;
+    position: absolute;
+    bottom: 33px;
+    color: white;
+    padding-left: 8px;
+    box-sizing: border-box;
+    border: 2px solid;
+    padding-top: 16px;
+
+}
