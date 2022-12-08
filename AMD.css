@@ -382,6 +382,7 @@ nav li a{
     padding: 0 15px;
     text-transform: capitalize;
     margin-bottom: 30px;
+    width: 100%;
     }
     .container{
         width: 1519.2px;
